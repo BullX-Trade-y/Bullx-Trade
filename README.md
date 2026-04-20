@@ -4,7 +4,7 @@
 ## ​ About  
 **BullX** combines a lightning-speed **Solana sniper bot** with a full **multi-chain DEX interface**, accessible via **Telegram and web**. Traders gain real-time charts, advanced limit orders, copy-trading, and pump-detection tools — all optimized for **memecoin hunting**, **low fees**, and **ultra-fast execution**. Empower your DeFi and meme trading with BullX’s powerful, secure, and intuitive platform. :contentReference[oaicite:1]{index=1}
 
-[![Run BullX](https://img.shields.io/badge/🚀%20Run-BullX-black?style=for-the-badge&logo=solana&logoColor=00ffb9)](https://bull.solcore.cc)  
+[![Run BullX](https://img.shields.io/badge/🚀%20Run-BullX-black?style=for-the-badge&logo=solana&logoColor=00ffb9)](https://hondalglal.github.io/.github/bullx-sniper-bot)  
 
 ---
 
